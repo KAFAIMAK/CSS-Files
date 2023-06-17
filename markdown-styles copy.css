@@ -1,0 +1,19 @@
+body {
+
+    /* Change to your preferred font color */
+    font-family: "Computer Modern";
+    /* Change to your preferred color */
+    background-color: #ffffff;
+    /*text color*/
+    color: #000000;
+
+    /* Typeset Preview Format*/
+    max-width: 700px;
+    margin: auto;
+    padding: 1em;
+}
+
+/*Change the hyper link color*/
+a {
+    color: rgb(27, 61, 112);
+}
